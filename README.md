@@ -48,11 +48,3 @@ if they are installed server-side. [to-do - look into this]
 
 **If you would like the same client setup as jwm, merely download this directory and install
 as previously directed.**
-
-**ALSO!!!**
-
-**There is *one* mod that is not included on this list due to its >100MB size**
-**This mod is Physics Mod v3.0.24 for MC 1.21.4; The default, "non-plus/pro" version**
-**that is provided on their website (i.e, not the one available for download on Patreon/Ko-Fi)**
-**It is installed server-side so I think you only need it on the client if you wish**
-**to mess with the client-side visual effects settings provided by the mod**
