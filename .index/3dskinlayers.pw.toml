@@ -1,0 +1,16 @@
+filename = 'skinlayers3d-neoforge-1.7.4-mc1.21.4.jar'
+name = '3D Skin Layers'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '210ccc0a03f27d34922268fbd9b0f30c80e9b4ae6282c982cb6cc54dd1f9f5638f348811cf016c1916d0c8eeb17e69e186d889e8622fb9e5ea3f54a01192de8f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zV5r3pPn/versions/JWVjWXl6/skinlayers3d-neoforge-1.7.4-mc1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'zV5r3pPn'
+version = 'JWVjWXl6'

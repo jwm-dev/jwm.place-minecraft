@@ -1,0 +1,16 @@
+filename = 'snowundertrees-1.21.3-1.4.6.jar'
+name = 'Snow Under Trees'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b5c68de8f3f8e9b6b82bf12e5dd3f2300ccb4475e6a82a4302548b69448ca88c5cec4231975a412e1594d3dc7248e0d0c1f41ddd9daf9d6b8bfe627fecf9fe46'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q3vyMuj2/versions/goJUMPOh/snowundertrees-1.21.3-1.4.6.jar'
+
+[update.modrinth]
+mod-id = 'Q3vyMuj2'
+version = 'goJUMPOh'

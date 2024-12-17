@@ -1,0 +1,16 @@
+filename = 'sit-1.21.3-1.3.5.jar'
+name = 'Sit'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5dd4039036e9fd892a17d2a5a36326dd494cdc8d02ffc4cd5016948102c672e8bcb65c916b19e1dca26dd9db90051f05714fe77018e6f763c49c517daaf16a9d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VKXzIykF/versions/XtroWTJw/sit-1.21.3-1.3.5.jar'
+
+[update.modrinth]
+mod-id = 'VKXzIykF'
+version = 'XtroWTJw'

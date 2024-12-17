@@ -1,0 +1,16 @@
+filename = 'RoughlyEnoughItems-18.0.796-neoforge.jar'
+name = 'Roughly Enough Items (REI)'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '0ec6e2597e2c24e3d508543b3a517d02a5e6f9ba099bfcd15f15deda44a0cb8d8298b583f91e2fb64ca3f95fa5589d61f3db1c77a5c95e6b406fbe2ad45e3869'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nfn13YXA/versions/tyBNZVEX/RoughlyEnoughItems-18.0.796-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'nfn13YXA'
+version = 'tyBNZVEX'

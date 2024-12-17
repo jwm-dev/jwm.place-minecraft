@@ -1,0 +1,16 @@
+filename = 'jamlib-neoforge-1.2.2+1.21.4.jar'
+name = 'JamLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'cf34e05b73b77f9ebe31890ba66eb1425de4652c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5988106
+project-id = 623764

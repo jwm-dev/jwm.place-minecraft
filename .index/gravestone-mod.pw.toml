@@ -1,0 +1,16 @@
+filename = 'gravestone-neoforge-1.21.4-1.0.24.jar'
+name = 'GraveStone Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '435172880711672bac00014bae4930983b7522a288f70bc1744dba320f3b9011a5bee3db58191d6e218b2aeb9da538ef68b2ec5b7bab7a69a522ad9f52f00a46'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RYtXKJPr/versions/YHis8Fd3/gravestone-neoforge-1.21.4-1.0.24.jar'
+
+[update.modrinth]
+mod-id = 'RYtXKJPr'
+version = 'YHis8Fd3'

@@ -1,0 +1,16 @@
+filename = 'BetterThirdPerson-neoforge-1.9.0.jar'
+name = 'Better Third Person'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '054d361eb54f2548cedbbe71ca37b0a9f55cfeb8324534e63584fc6e017be48241019750f3fb4644e5f6383d34c0381ebc6883f62db1621f17657f2d6144842f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G1s2WpNo/versions/OyWrVzG0/BetterThirdPerson-neoforge-1.9.0.jar'
+
+[update.modrinth]
+mod-id = 'G1s2WpNo'
+version = 'OyWrVzG0'

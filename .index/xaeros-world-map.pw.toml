@@ -1,0 +1,16 @@
+filename = 'XaerosWorldMap_1.39.2_NeoForge_1.21.4.jar'
+name = "Xaero's World Map"
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f35340eef618668b6478eed8799a250b61abfc974cd4a6617b0f52cc9b3b22c27219710d04b8bfb7d100457a363757a0ceff8a76a300f4b318c153b0f4f99280'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NcUtCpym/versions/qwwQABCa/XaerosWorldMap_1.39.2_NeoForge_1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'NcUtCpym'
+version = 'qwwQABCa'

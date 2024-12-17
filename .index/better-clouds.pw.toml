@@ -1,0 +1,16 @@
+filename = 'better-clouds-1.8.2+1.21.4-neoforge.jar'
+name = 'Better Clouds'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ff3693aa2a940780cd0914298570ac283f78aa4884975f830609d7e7f49f178e8cbcbd20a53527b5ad5d535f0e7b3547d4b17d45d00b35e3055792f8b959a98b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5srFLIaK/versions/kPlrxwU1/better-clouds-1.8.2%2B1.21.4-neoforge.jar'
+
+[update.modrinth]
+mod-id = '5srFLIaK'
+version = 'kPlrxwU1'

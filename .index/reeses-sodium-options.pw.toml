@@ -1,0 +1,16 @@
+filename = 'reeses-sodium-options-neoforge-1.8.1+mc1.21.4.jar'
+name = "Reese's Sodium Options"
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f44750e3b80a56ca5228967f02ba862372b4700913a906eb755f247fd7d5ff3876cf01a505186d952e3197907085bd1490c955536494e72c965a37214aff2061'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Bh37bMuy/versions/r722WRxp/reeses-sodium-options-neoforge-1.8.1%2Bmc1.21.4.jar'
+
+[update.modrinth]
+mod-id = 'Bh37bMuy'
+version = 'r722WRxp'

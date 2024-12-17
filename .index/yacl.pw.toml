@@ -1,0 +1,16 @@
+filename = 'YetAnotherConfigLib-3.6.2+1.21.4-neoforge.jar'
+name = 'YetAnotherConfigLib (YACL)'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5f5da327d2ca829df51699e69095aeee97d737ca765952b84670efdce77d8d4679f3abddd5185ab891060f7a8bdc12974d5891f58020c8c67de4de6cd44e209c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1eAoo2KR/versions/IECszfbl/YetAnotherConfigLib-3.6.2%2B1.21.4-neoforge.jar'
+
+[update.modrinth]
+mod-id = '1eAoo2KR'
+version = 'IECszfbl'

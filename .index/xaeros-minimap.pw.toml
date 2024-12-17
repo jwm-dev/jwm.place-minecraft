@@ -1,0 +1,16 @@
+filename = 'Xaeros_Minimap_24.6.2_NeoForge_1.21.4.jar'
+name = "Xaero's Minimap"
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '224d9d386a9397ce3f57f1b24329dfd757cd5bcd5f162a08cf17ed17bb010b2d87230159f567519dac54f0a7c5e2c2a9781f254ea4185267af922d592279801a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/1bokaNcj/versions/sCTl8qju/Xaeros_Minimap_24.6.2_NeoForge_1.21.4.jar'
+
+[update.modrinth]
+mod-id = '1bokaNcj'
+version = 'sCTl8qju'

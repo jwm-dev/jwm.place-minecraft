@@ -1,0 +1,16 @@
+filename = 'Chunky-NeoForge-1.4.27.jar'
+name = 'Chunky'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b905fd22ad309fda5e4bdb20ff5dd60bcabfeeb010094134dfa4de3648618f97760ce5103626d1872dd2371df8e11993d3382be94f016e91b99050d6124a6e09'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fALzjamp/versions/D99gXKQD/Chunky-NeoForge-1.4.27.jar'
+
+[update.modrinth]
+mod-id = 'fALzjamp'
+version = 'D99gXKQD'
