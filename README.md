@@ -14,9 +14,6 @@ used on the server. This server is a private entity whose members are invite-onl
 
 For versioning, each .jar file will indicate the proper version of the mod to download.
 
-You can either download the ones here, which should be kept up-to-date with what is currently
-running on the server, or you can seek out the individual modpages and download them from their source.
-
 To install, download this directory and place all the .jar files inside your /mods directory
 on your MC neoforge instance. The hidden .index directory is for Prism Launcher. If you do not use
 Prism then you can safely delete these files, otherwise they are essential for the launcher listing
@@ -44,6 +41,3 @@ the installed mods.
 
 \* Note that I am not sure if these mods are required to be installed on the client
 if they are installed server-side. [to-do - look into this]
-
-**If you would like the same client setup as jwm, merely download this directory and install
-as previously directed.**
