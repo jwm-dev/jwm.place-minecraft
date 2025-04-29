@@ -10,8 +10,7 @@
 
 This github page will be maintained and attempt to keep parity with the jwm.place
 minecraft server and is provided as an easy resource to download the collection of mods
-used on the server. This server is a private entity whose members are invite-only, meaning
-this page is not in violation of any "redistribution" clause contained within any particular license.
+used on the server. This server is a private entity whose members are invite-only, this page is meant only as a reference.
 
 For versioning, each .jar file will indicate the proper version of the mod to download.
 
